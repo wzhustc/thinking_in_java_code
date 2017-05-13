@@ -10,7 +10,7 @@ public class Parcel3 {
 		}
 	}
 	
-	// protected 修饰内部类，则除了Parcel3,Parcel3包内的类以及Parcel3的继承者以外，其他都不能访问SubDestination
+	// protected修饰内部类，则除了Parcel3,Parcel3包内的类以及Parcel3的继承者以外，其他都不能访问SubDestination
 	protected class SubDestination implements Destination {
 		private String label;
 
