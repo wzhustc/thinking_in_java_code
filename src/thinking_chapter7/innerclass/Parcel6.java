@@ -1,7 +1,6 @@
 package thinking_chapter7.innerclass;
 
 /**
- * 
  * 本程序展示了：
  * 1、匿名内部类，每次创建都是new Contents(),而不需要类名
  * 2、匿名内部类的特点就是在new一个类时候，在这个new的肚子里一大段代码。这段代码表示通过匿名内部类想做的东西
