@@ -1,6 +1,7 @@
 package thinking_chapter8;
 
 import java.util.Hashtable;
+import java.util.LinkedList;
 
 public class SpringDetector {
 
@@ -14,7 +15,10 @@ public class SpringDetector {
 			if (ht.containsKey(gh)) {
 				System.out.println(ht.get(gh));
 			}
+			
 		}
+		
+		LinkedList list = new LinkedList();
 	}
 }
 

@@ -95,3 +95,6 @@ ps -ef|grep nginx 查看运行的进程
 
 nignx配置：nignx.conf文件
 nignx 里面可以根据不同主机名的配置 通过域名取到不同的网页
+
+
+
