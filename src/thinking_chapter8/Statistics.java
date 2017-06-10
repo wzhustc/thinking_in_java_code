@@ -1,6 +1,7 @@
 package thinking_chapter8;
 
-import com.sun.org.apache.xalan.internal.xsltc.runtime.Hashtable;
+
+import java.util.Hashtable;
 
 public class Statistics {
 
